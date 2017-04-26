@@ -1,7 +1,7 @@
 {
-  "name": "d3",
+  "name": "@brevity/d3v2",
   "version": "2.10.3",
-  "description": "A small, free JavaScript library for manipulating documents based on data.",
+  "description": "A wrapper for d3v2.10.3,",
   "keywords": [
     "dom",
     "w3c",
